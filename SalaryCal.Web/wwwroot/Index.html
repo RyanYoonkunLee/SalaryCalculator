@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Salary Calculator</title>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+    <h1>This is salary calculator</h1>
+    <button onclick="GetSalary()">Click</button>
+
+    <script type="text/javascript">
+        function GetSalary() {
+            $.ajax({
+                method: "GET",
+                url: "https://localhost:44352/api/salary",
+                context: document.body
+            }).done(function (data) {
+                console.log(data);
+            });
+        }
+    </script>
+</body>
+</html>

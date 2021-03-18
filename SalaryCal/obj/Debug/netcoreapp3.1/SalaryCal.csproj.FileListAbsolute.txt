@@ -1,0 +1,13 @@
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\bin\Debug\netcoreapp3.1\SalaryCal.exe
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\bin\Debug\netcoreapp3.1\SalaryCal.deps.json
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\bin\Debug\netcoreapp3.1\SalaryCal.runtimeconfig.json
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\bin\Debug\netcoreapp3.1\SalaryCal.runtimeconfig.dev.json
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\bin\Debug\netcoreapp3.1\SalaryCal.dll
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\bin\Debug\netcoreapp3.1\SalaryCal.pdb
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.AssemblyInfoInputs.cache
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.AssemblyInfo.cs
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.csproj.CoreCompileInputs.cache
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.dll
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.pdb
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.genruntimeconfig.cache
+C:\Users\Yoonkun Lee\Desktop\projects\SalaryCal\SalaryCal\obj\Debug\netcoreapp3.1\SalaryCal.csprojAssemblyReference.cache
